@@ -33,5 +33,5 @@ This is a simple React project demonstrating the usage of the `useState` hook. I
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/react-usestate-example.git
+git clone https://github.com/aneesh-acharyeah/react-usestate-example.git
 cd react-usestate-example
